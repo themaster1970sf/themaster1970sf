@@ -13,7 +13,7 @@
 ---
 
 <p>Wiki</p>
-<a href="https://wiki.plazmocraft.ru/doku.php?id=start" target="_blank">https://wiki.plazmocraft.ru/</a>
+<a href="https://wiki.plazmocraft.ru/" target="_blank">https://wiki.plazmocraft.ru/</a>
 
 ---
 
