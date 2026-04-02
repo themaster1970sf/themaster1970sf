@@ -8,7 +8,7 @@
 ---
 <p></p>
 <p>Основной сайт</p>
-<a href="https://plazmocraft.ru/" target="_blank">https://www.plazmocraft.ru/</a>
+<a href="https://www.plazmocraft.ru/" target="_blank">https://www.plazmocraft.ru/</a>
 
 ---
 
